@@ -1,0 +1,33 @@
+{
+  "name": "connect-me-skill",
+  "version": "1.0.0",
+  "description": "Claude Code skill that automates daily LinkedIn networking - sends 8-10 targeted connection requests using Playwright MCP",
+  "main": "index.js",
+  "bin": {
+    "connect-me-skill": "./bin/install.js"
+  },
+  "scripts": {
+    "postinstall": "node bin/install.js"
+  },
+  "keywords": [
+    "claude-code",
+    "skill",
+    "linkedin",
+    "automation",
+    "playwright",
+    "mcp",
+    "networking",
+    "ai",
+    "claude"
+  ],
+  "author": "Aayush Shrestha",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theaayushstha1/connect-me.git"
+  },
+  "bugs": {
+    "url": "https://github.com/theaayushstha1/connect-me/issues"
+  },
+  "homepage": "https://github.com/theaayushstha1/connect-me#readme"
+}

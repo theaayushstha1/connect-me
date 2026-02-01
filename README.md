@@ -4,14 +4,9 @@ A Claude Code skill that automates daily LinkedIn networking by sending 8-10 tar
 
 ## Installation
 
-### Via npm (Recommended)
+### Via skills.sh (Recommended)
 ```bash
-npm install -g connect-me-skill
-```
-
-### Via npx (One-time use)
-```bash
-npx connect-me-skill
+npx skills add theaayushstha1/connect-me
 ```
 
 ### Prerequisites

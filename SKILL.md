@@ -1,9 +1,9 @@
 ---
-name: connect-linkedin
-description: Automate daily LinkedIn networking by sending 8-10 targeted connection requests. Use when the user asks to "connect on LinkedIn", "send LinkedIn connections", "network on LinkedIn", "grow LinkedIn network", "daily LinkedIn outreach", "LinkedIn networking", "send connection requests", or wants to automate LinkedIn outreach to recruiters, students, or hiring managers.
+name: connect-me
+description: Automate daily LinkedIn networking by sending 8-10 targeted connection requests. Use when the user asks to "connect me", "connect on LinkedIn", "send LinkedIn connections", "network on LinkedIn", "grow LinkedIn network", "daily LinkedIn outreach", "LinkedIn networking", "send connection requests", or wants to automate LinkedIn outreach to recruiters, students, or hiring managers.
 ---
 
-# Connect LinkedIn
+# Connect Me
 
 Automate daily LinkedIn networking by sending ~8-10 targeted connection requests using Playwright MCP browser automation.
 

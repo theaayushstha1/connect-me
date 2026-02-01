@@ -1,4 +1,4 @@
-# Connect LinkedIn
+# Connect Me
 
 A Claude Code skill that automates daily LinkedIn networking by sending 8-10 targeted connection requests using Playwright MCP browser automation.
 
@@ -16,7 +16,7 @@ All connections are filtered to 2nd degree for higher acceptance rates.
 
 ### Prerequisites
 
-1. [Claude Code](https://claude.com/claude-code) installed
+1. [Claude Code](https://claude.ai/download) installed
 2. Playwright MCP server:
    ```bash
    claude mcp add playwright npx @playwright/mcp@latest
@@ -24,9 +24,9 @@ All connections are filtered to 2nd degree for higher acceptance rates.
 
 ### Install the Skill
 
-Download `connect-linkedin.skill` and install:
+Download `connect-me.skill` and install:
 ```bash
-claude skill install connect-linkedin.skill
+claude skill install connect-me.skill
 ```
 
 Or copy the `SKILL.md` file to your Claude Code skills directory.
@@ -34,10 +34,10 @@ Or copy the `SKILL.md` file to your Claude Code skills directory.
 ## Usage
 
 Simply ask Claude:
-- "Connect on LinkedIn"
+- `/connect-me`
+- "Connect me on LinkedIn"
 - "Send LinkedIn connections"
 - "Daily LinkedIn outreach"
-- "Network on LinkedIn"
 
 Claude will:
 1. Open LinkedIn in a browser
